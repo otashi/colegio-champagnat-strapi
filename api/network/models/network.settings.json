@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "networks",
+  "info": {
+    "name": "network"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "coverURL": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
