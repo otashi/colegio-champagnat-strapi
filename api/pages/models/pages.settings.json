@@ -26,6 +26,12 @@
     "coverURL": {
       "type": "string",
       "required": true
+    },
+    "externalSiteURL": {
+      "type": "string"
+    },
+    "setPhotoFilter": {
+      "type": "boolean"
     }
   }
 }

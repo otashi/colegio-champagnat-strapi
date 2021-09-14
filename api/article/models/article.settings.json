@@ -26,6 +26,12 @@
     "coverURL": {
       "type": "string",
       "required": true
+    },
+    "setPhotoFilter": {
+      "type": "boolean"
+    },
+    "setContain": {
+      "type": "boolean"
     }
   }
 }

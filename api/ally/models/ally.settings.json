@@ -19,6 +19,9 @@
     "coverURL": {
       "type": "string",
       "required": true
+    },
+    "path": {
+      "type": "string"
     }
   }
 }
